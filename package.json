@@ -1,0 +1,19 @@
+{
+  "name": "run-forest",
+  "version": "1.0.0",
+  "description": "simple api to keep track of our runs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodoin/run-forest.git"
+  },
+  "author": "Andre Silveira / Leonardo Doin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodoin/run-forest/issues"
+  },
+  "homepage": "https://github.com/leodoin/run-forest#readme"
+}
