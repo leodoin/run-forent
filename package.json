@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/leodoin/run-forest.git"
   },
-  "author": "Andre Silveira / Leonardo Doin",
+  "author": "Andre Herculano <andresilveirah@gmail.com> / Leonardo Doin <leodoin@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leodoin/run-forest/issues"
